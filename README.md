@@ -1,2 +1,2 @@
 # jawebdesigning.github.io
-This is for by Web designing projects
+This is for my Web designing projects
